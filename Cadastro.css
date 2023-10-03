@@ -27,11 +27,11 @@ section{
     background-position: center;
 
 }
-@keyframes animateBg{
+/*@keyframes animateBg{
     100%{
         filter: hue-rotate(360deg);
     }
-}
+}*/
 
 .login-box{
     position: relative;
